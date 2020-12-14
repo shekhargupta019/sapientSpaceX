@@ -10,7 +10,8 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3006](http://localhost:3006) to view it in the browser.
 
 ## About Project
-This project will help users list and browse all launches by SpaceX program. As per the requirement, this app is server-side rendered with webpack and babel. I have used all the API's mentioned in the requirements.
+This project will help users list and browse all launches by SpaceX program.
+ This app is server-side rendered with webpack and babel.
 The user can see all the launch programs as per individual filters for launch year, launch success, land success, combination of any two or combination of all three.
 After applying filters, the url will change and page will be updated with latest records without refreshing. 
 If the page is refreshed with the applied filters in the URL – the resulting page is server side rendered & filters are again client side rendered.
@@ -18,3 +19,6 @@ I have added an additional button for 'Reset Filters'. If the user has applied a
 
 ### Deployment
 
+heroku URL : https://spacex-sapinet.herokuapp.com/
+
+Git Code : https://github.com/shekhargupta019/sapientSpacex
